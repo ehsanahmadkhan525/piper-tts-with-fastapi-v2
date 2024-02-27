@@ -1,0 +1,8 @@
+fastapi==0.109.2
+librosa==0.10.1
+onnxruntime==1.17.0
+piper-phonemize==1.1.0
+pyrubberband==0.3.0
+soundfile==0.12.1
+uvicorn==0.27.1
+Wave==0.0.2
