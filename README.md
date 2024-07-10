@@ -34,6 +34,10 @@ Install the required Python packages using `pip`:
 pip install -r requirements.txt
 ```
 
+```bash
+sudo apt install rubberband-cli
+```
+
 ## Usage
 
 With the virtual environment activated, you can now run the UVicorn server. Use the following command:
